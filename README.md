@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivebarna
+- 👋 Hi, I’m 
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning c＋＋
 - 💞️ I’m looking to collaborate on 
